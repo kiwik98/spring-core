@@ -1,10 +1,10 @@
 package hello.core.autowired;
 
 import hello.core.member.Member;
-import jakarta.annotation.Nullable;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.lang.Nullable;
 
 import java.util.Optional;
 
